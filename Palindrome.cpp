@@ -14,10 +14,10 @@ int main() {
 	}
 	if(cmp==res)
 	{
-	        cout<<cmp <<" is palindron number";
+	        cout<<cmp <<" is palindrome number";
 	    }
 	    else{
-	        cout<<cmp <<" is not palindron number ";
+	        cout<<cmp <<" is not palindrome number ";
 	    }
 	
 	return 0;
